@@ -1,0 +1,23 @@
+11:31:11.614 INFO - Using data dir '/data'
+11:31:11.652 INFO - Region : local. Host : 172.20.0.3.
+11:31:11.675 INFO - Using native epoll transport.
+11:31:11.950 INFO - Initializing gmail smtp mail transport. Username : monuchubi1708@gmail.com. SMTP host : smtp.gmail.com:587
+11:31:12.110 INFO - Reports : 0
+11:31:12.111 INFO - Didn't find custom user certificates.
+11:31:12.112 INFO - Didn't find Let's Encrypt certificates.
+11:31:12.112 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+11:31:12.112 INFO - Using native openSSL provider.
+11:31:12.112 WARN - ATTENTION. Server certificate paths (cert : '/blynk', key : '/blynk') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+11:31:12.629 INFO - HTTP API and WebSockets server listening at 8080 port.
+11:31:12.632 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+11:31:12.633 INFO - Mqtt hardware server listening at 8440 port.
+11:33:06.757 WARN - User 'hungnq35vtp@gmail.com' not registered. /172.20.0.1:54346
+11:33:09.591 WARN - User 'hungnq35vtp@gmail.com' not registered. /172.20.0.1:54350
+11:33:27.122 WARN - User 'hungnq35vtp@gmail.com' not registered. /172.20.0.1:54354
+11:33:53.455 INFO - Trying register user : hungnq35vtp@gmail.com, app : Blynk
+11:33:53.459 INFO - Registered hungnq35vtp@gmail.com.
+11:33:53.636 INFO - hungnq35vtp@gmail.com Blynk-app (iOS-22605) joined.
+11:34:11.814 INFO - Creating new dashboard.
+12:02:57.405 INFO - hungnq35vtp@gmail.com hardware joined.
+12:07:31.702 INFO - hungnq35vtp@gmail.com hardware joined.
+12:09:26.753 INFO - hungnq35vtp@gmail.com Blynk-app (iOS-22605) joined.
